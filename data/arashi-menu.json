@@ -3,77 +3,77 @@
     "id": 1,
     "name": "Wagyu Beef Tataki",
     "price": 18.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "wagyu-beef-tataki.jpg"
   },
   {
     "id": 2,
     "name": "House Salad",
     "price": 7.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "house-salad.jpg"
   },
   {
     "id": 3,
     "name": "Wagyu Yakiniku Salad",
     "price": 12.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "wagyu-yakinuku-salad.jpg"
   },
   {
     "id": 4,
     "name": "Smoked Salmon Avocado",
     "price": 9.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "smoked-salmon-avocado.jpg"
   },
   {
     "id": 5,
     "name": "Lotus Avocado Salad",
     "price": 7.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "lotus-avocado-salad.jpg"
   },
   {
     "id": 6,
     "name": "Edamame",
     "price": 7.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "edamame.jpg"
   },
   {
     "id": 7,
     "name": "Edamame",
     "price": 4.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "edamame.jpg"
   },
   {
     "id": 8,
     "name": "Takoyaki",
     "price": 5.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "takoyaki.jpg"
   },
   {
     "id": 9,
     "name": "Spicy Prawn",
     "price": 9.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "spicy-prawn.jpg"
   },
   {
     "id": 10,
     "name": "Iga Shoka Yaki",
     "price": 18.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "iga-shoka-yaki.jpg"
   },
   {
     "id": 11,
     "name": "Gyoza",
     "price": 8.95,
-    "category": "appetizer",
+    "category": "Appetizer",
     "photo": "gyoza.jpg"
   },
   {
